@@ -12,10 +12,10 @@ export const metadata: Metadata = {
     type: "website",
     url: "https://example.com",
     title: title,
-    description: "My Website Description",
-    siteName: "My Website",
+    description: description,
+    siteName: title + " Website",
     images: [{
-      url: "https://example.com/og.png",
+      url: "https://i.imgur.com/yMw2p1r.png",
     }],
   },
   authors:[
