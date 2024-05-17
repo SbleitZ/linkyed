@@ -39,7 +39,7 @@ You can configure the project using [mis-links.json](./mis-links.json) for the o
 1. For example, if you want to add your amazon wish list, your json should look like this (without animations):
  ```json
   {
-      "icon":"amazon",
+      "icon":"amazon", // icons in lower case
       "href":"https://amazon.com/your-wish-list",
       "label":"Amazon Wishlist",
       "background":"#ecae1d",
@@ -57,6 +57,7 @@ You can configure the project using [mis-links.json](./mis-links.json) for the o
 ### Utils
 - [Icons](https://www.svgrepo.com)
 - [Animations](https://codepen.io/davideast/pen/MWxvzjm)
+- [Background Snippets](https://bg.ibelick.com/)
 
 ### Animations
 - wiggle
@@ -82,4 +83,14 @@ You can configure the project using [mis-links.json](./mis-links.json) for the o
 - Twitch
 - Twitter
 - Youtube
-
+- Github
+- Behance
+- Dribbble
+- Link
+- Linkedin
+- Onlyfans
+- Pinterest
+- SnapChat
+- SoundCloud
+- Tumblr
+- Whatsapp
