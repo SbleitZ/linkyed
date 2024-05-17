@@ -11,12 +11,13 @@ A simple template to show your links that allows customization using nextjs and 
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <a/>
 </p>
+<img src="https://i.imgur.com/yMw2p1r.png" alt="web example dark mode"/>
 
 ## Instalation
   1. Clone the project using the following command: 
 
    ```bash
-      git clone https://github.com/SbleitZ/linkyed.git
+    git clone https://github.com/SbleitZ/linkyed.git
    ```
   2. Access the folder:
 
@@ -51,7 +52,8 @@ You can configure the project using [mis-links.json](./mis-links.json) for the o
  ```
  <img src="https://i.imgur.com/ivFdUHj.png" alt="example"/>
 
-[You can edit the boxes in this file](/src/app/components/Links.tsx)
+2. to modify the background modify the class of the main tag in [page.tsx](./src/app/page.tsx#L8,C98)
+3. [You can edit the boxes in this file](/src/app/components/Links.tsx)
 
 ### Utils
 - [Icons](https://www.svgrepo.com)
