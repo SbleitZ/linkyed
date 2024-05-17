@@ -2,7 +2,7 @@
 {
   "basics":{
     "title":"Rodrigo Palacios",
-    "description":"Desarrollador Web y Creador de contenido",
+    "description":"Hi, i'm a software developer from Chile",
     "image":"https://avatars.githubusercontent.com/u/72667973?v=4"
   },
   "links":[
@@ -53,7 +53,7 @@
       "background":"#1d9bf0",
       "effects":{
         "duration":"",
-        "animation":"shake"
+        "animation":""
       }
     },
     {
@@ -83,7 +83,7 @@
       "background":"#ecae1d",
       "effects":{
         "duration":"",
-        "animation":""
+        "animation":"shake"
       }
     }
   ],
