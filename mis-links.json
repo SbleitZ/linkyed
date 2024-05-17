@@ -11,7 +11,6 @@
       "href":"",
       "label":"Tiktok",
       "background":"#000",
-      "textAlign":"",
       "effects":{
         "duration":"",
         "animation":"wiggle"
@@ -22,7 +21,6 @@
       "href":"",
       "label":"Youtube",
       "background":"#f00",
-      "textAlign":"center",
       "effects":{
         "duration":"",
         "animation":""
@@ -33,7 +31,6 @@
       "href":"/asd",
       "label":"Instagram",
       "background":"linear-gradient( 90deg,#833ab4 0%,#fd1d1d 50%,#fcb045 100% )",
-      "textAlign":"center",
       "effects":{
         "duration":"",
         "animation":""
@@ -44,7 +41,6 @@
       "href":"",
       "label":"Twitch",
       "background":"#a970ff",
-      "textAlign":"",
       "effects":{
         "duration":"",
         "animation":""
@@ -55,7 +51,6 @@
       "href":"",
       "label":"Twitter",
       "background":"#1d9bf0",
-      "textAlign":"",
       "effects":{
         "duration":"",
         "animation":"shake"
@@ -66,7 +61,6 @@
       "href":"",
       "label":"Discord",
       "background":"#5865f2",
-      "textAlign":"",
       "effects":{
         "duration":"",
         "animation":""
@@ -77,7 +71,16 @@
       "href":"",
       "label":"Spotify",
       "background":"#1ed760",
-      "textAlign":"",
+      "effects":{
+        "duration":"",
+        "animation":""
+      }
+    },
+    {
+      "icon":"amazon",
+      "href":"",
+      "label":"Amazon Wishlist",
+      "background":"#ecae1d",
       "effects":{
         "duration":"",
         "animation":""

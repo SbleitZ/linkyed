@@ -33,7 +33,7 @@ function LinkBox({
 }: LinkBoxProps) {
   return (
     <li
-      className={cn("rounded-md hover:scale-105 transition-all", effects.animation)}
+      className={cn("rounded hover:scale-105 transition-all", effects.animation)}
       style={{ background: background }}
     >
       <Link
