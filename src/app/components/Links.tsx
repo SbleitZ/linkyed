@@ -17,7 +17,6 @@ interface LinkBoxProps {
   label: string;
   href: string;
   background: string;
-  textAlign: string;
   effects: {
     duration: string;
     animation: string;
@@ -28,7 +27,6 @@ function LinkBox({
   label,
   background,
   href,
-  textAlign,
   effects,
 }: LinkBoxProps) {
   return (
