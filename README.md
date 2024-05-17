@@ -40,10 +40,9 @@ You can configure the project using [mis-links.json](./mis-links.json) for the o
  ```json
   {
       "icon":"amazon",
-      "href":"",
+      "href":"https://amazon.com/your-wish-list",
       "label":"Amazon Wishlist",
       "background":"#ecae1d",
-      "textAlign":"",
       "effects":{
         "duration":"",
         "animation":""
