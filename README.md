@@ -11,7 +11,7 @@ A simple template to show your links that allows customization using nextjs and 
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <a/>
 </p>
-<img src="https://i.imgur.com/yMw2p1r.png" alt="web example dark mode"/>
+<img src="https://i.imgur.com/FY9hQWj.gif" alt="web example dark mode"/>
 
 ## Instalation
   1. Clone the project using the following command: 
