@@ -17,6 +17,15 @@ export const metadata: Metadata = {
     images: [{
       url: "https://example.com/og.png",
     }],
+  },
+  authors:[
+    {
+      name:"Sbleit",
+      url:"https://sbleit.net"
+    }
+  ],
+  icons:{
+    icon:"/favicon.ico"
   }
 };
 
