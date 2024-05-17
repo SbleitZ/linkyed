@@ -7,6 +7,17 @@
   },
   "links":[
     {
+      "icon":"tiktok",
+      "href":"",
+      "label":"Tiktok",
+      "background":"#000",
+      "textAlign":"",
+      "effects":{
+        "duration":"",
+        "animation":"wiggle"
+      }
+    },
+    {
       "icon":"youtube",
       "href":"",
       "label":"Youtube",
@@ -14,9 +25,7 @@
       "textAlign":"center",
       "effects":{
         "duration":"",
-        "animation":"",
-        "fontWeigth":"",
-        "fontSize":""
+        "animation":""
       }
     },
     {
@@ -27,9 +36,7 @@
       "textAlign":"center",
       "effects":{
         "duration":"",
-        "animation":"",
-        "fontWeigth":"",
-        "fontSize":""
+        "animation":""
       }
     },
     {
@@ -40,9 +47,7 @@
       "textAlign":"",
       "effects":{
         "duration":"",
-        "animation":"wiggle",
-        "fontWeigth":"",
-        "fontSize":""
+        "animation":""
       }
     },
     {
@@ -53,9 +58,7 @@
       "textAlign":"",
       "effects":{
         "duration":"",
-        "animation":"shake",
-        "fontWeigth":"",
-        "fontSize":""
+        "animation":"shake"
       }
     },
     {
@@ -66,22 +69,7 @@
       "textAlign":"",
       "effects":{
         "duration":"",
-        "animation":"",
-        "fontWeigth":"",
-        "fontSize":""
-      }
-    },
-    {
-      "icon":"tiktok",
-      "href":"",
-      "label":"Tiktok",
-      "background":"#000",
-      "textAlign":"",
-      "effects":{
-        "duration":"",
-        "animation":"",
-        "fontWeigth":"",
-        "fontSize":""
+        "animation":""
       }
     },
     {
@@ -92,9 +80,7 @@
       "textAlign":"",
       "effects":{
         "duration":"",
-        "animation":"",
-        "fontWeigth":"",
-        "fontSize":""
+        "animation":""
       }
     }
   ],

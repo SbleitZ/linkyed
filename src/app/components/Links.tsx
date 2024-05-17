@@ -21,8 +21,6 @@ interface LinkBoxProps {
   effects: {
     duration: string;
     animation: string;
-    fontWeigth: string;
-    fontSize: string;
   };
 }
 function LinkBox({
