@@ -17,6 +17,12 @@ A simple template to show your links that allows customization using nextjs and 
 </p>
 <img src="https://i.imgur.com/FY9hQWj.gif" alt="web example dark mode"/>
 
+## **Features**
+- Automatic switching between dark and light themes.
+- Responsive design that adapts mobile and pc devices.
+- Fully customizable: icons, colors, shapes, and more.
+- Utilizes SVG icons for enhanced visual quality.
+
 ## Instalation
   1. Clone the project using the following command: 
 
@@ -57,6 +63,7 @@ You can configure the project using [mis-links.json](./mis-links.json) for the o
 
 2. to modify the background modify the class of the main tag in [page.tsx](./src/app/page.tsx#L8,C98)
 3. [You can edit the boxes in this file](/src/app/components/Links.tsx)
+
 
 ### Utils
 - [Icons](https://www.svgrepo.com)
