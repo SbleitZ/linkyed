@@ -1,6 +1,10 @@
 # Linkyed
 A simple template to show your links that allows customization using nextjs and tailwindcss.
+
 <p align="center">
+  <a href="https://linkyed.vercel.app/">
+    <img src="https://img.shields.io/badge/demo%20Linkyed-blue?style=for-the-badge">
+  <a/>
   <a>
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
   <a/>
