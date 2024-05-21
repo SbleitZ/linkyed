@@ -2,7 +2,7 @@
 A simple template to show your links that allows customization using nextjs and tailwindcss.
 
 <p align="center">
-  <a href="https://linkyed.vercel.app/">
+  <a target="_blank" href="https://linkyed.vercel.app/">
     <img src="https://img.shields.io/badge/demo%20Linkyed-blue?style=for-the-badge">
   <a/>
   <a>
