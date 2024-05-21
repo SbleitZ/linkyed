@@ -9,8 +9,8 @@ export default function Home() {
       <div className="w-full flex flex-col items-center justify-center">
         <Avatar />
         <div className="text-center pt-4 pb-6">
-          <h1 className="text-2xl font-extrabold dark:text-primary">{title}</h1>
-          <h2 className=" dark:text-description">{description} </h2>
+          <h1 className="text-2xl font-extrabold text-dPrimary dark:text-primary">{title}</h1>
+          <h2 className="text-description">{description} </h2>
         </div>
         <Links />
       </div>
