@@ -10,10 +10,10 @@ export const metadata: Metadata = {
   description:description,
   openGraph:{
     type: "website",
-    url: "https://example.com",
+    url: "https://github.com/SbleitZ/linkyed",
     title: title,
     description: description,
-    siteName: title + " Website",
+    siteName: title + " linkyed",
     images: [{
       url: "https://i.imgur.com/yMw2p1r.png",
     }],
