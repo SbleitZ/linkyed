@@ -18,6 +18,8 @@ const config: Config = {
         description:"rgb(163 163 163)",
         primary:"#ffffff",
         footer:"rgb(156 163 175)",
+
+        dTitle:"#000000",
       }
     },
   },
