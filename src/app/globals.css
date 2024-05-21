@@ -13,7 +13,7 @@
 }
 
 .shake {
-  animation: shake var(--ease-elastic-in-1) 300ms infinite alternate;
+  animation: shake var(--ease-elastic-in-1) 500ms infinite;
 }
 
 .pulse {
@@ -41,7 +41,7 @@
 }
 
 .glow {
-  animation: glow var(--ease-elastic-in-1) 600ms infinite alternate;
+  animation: glow var(--ease-elastic-in-1) 1s infinite alternate;
 }
 
 .blur {
@@ -137,7 +137,7 @@
 
 @keyframes glow {
   50% {
-    box-shadow: 0 0 40px hsl(12, 100%, 60%);
+    box-shadow: 0 0 40px #1d9bf0;
   }
 }
 

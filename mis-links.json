@@ -87,8 +87,16 @@
       }
     }
   ],
+  "colors":{
+    "description":"rgb(163 163 163)",
+    "primary":"#fff",
+    "footer":"rgb(156 163 175)",
+    "dFooter":"rgb(137 143 154)",
+    "dTitle":"#000000"
+  },
   "footer":{
     "author":"Sbleit",
-    "href":"https://sbleit.net"
+    "href":"https://sbleit.net",
+    "repository":"https://github.com/SbleitZ/linkyed"
   }
 }

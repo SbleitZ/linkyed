@@ -1,5 +1,8 @@
 import type { Config } from "tailwindcss";
 
+import info from "./mis-links.json"
+const {colors} = info;
+
 const config: Config = {
   content: [
     "./src/pages/**/*.{js,ts,jsx,tsx,mdx}",
@@ -8,17 +11,7 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
-      },
-      colors:{
-        title:"#ffffff",
-        description:"rgb(163 163 163)",
-        primary:"#ffffff",
-        footer:"rgb(156 163 175)",
-      }
+      colors
     },
   },
   plugins: [],
